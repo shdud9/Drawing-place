@@ -1,0 +1,23 @@
+:root {
+}
+
+.button {
+    width: 500px;
+    -unity-text-align: middle-center;
+    align-items: auto;
+    justify-content: flex-end;
+    align-self: center;
+    height: 80px;
+    font-size: 70px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    background-color: rgb(202, 87, 255);
+    margin-top: 32px;
+}
